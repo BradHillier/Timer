@@ -1,6 +1,6 @@
  # Timer
 
-![](assets/set\ time\ mode.png)
+![](assets/set time mode.png)
 
 ## Description
 This is a simple timer application built with React. It allows the user to set a countdown timer, start and pause the timer, and reset the timer. When the timer reaches 0, an alarm will sound until the user stops it.
